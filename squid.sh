@@ -8,10 +8,10 @@ HERE=`pwd`
 NOW=$(date +%Y-%m-%d-%H-%M-%S)
 
 # CONTAINER NAME
-CONTAINERNAME=squid
+CONTAINERNAME=alpine_squid
 
 # CONTAINER VERSION
-CONTAINERVERSION=atomney/squid
+CONTAINERVERSION=iefcufj/alpine_squid
 
 PORT=3128
 
